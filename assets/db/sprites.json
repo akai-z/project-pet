@@ -1,0 +1,124 @@
+[
+    {
+        "id": "char_a",
+        "name": "Char A",
+        "source": "char_a.png",
+        "still_frame": {}
+    },
+    {
+        "id": "char_b",
+        "name": "Char B",
+        "source": "char_b.png",
+        "still_frame": {}
+    },
+    {
+        "id": "char_c",
+        "name": "Char C",
+        "source": "char_c.png",
+        "still_frame": {}
+    },
+    {
+        "id": "char_d",
+        "name": "Char D",
+        "source": "char_d.png",
+        "still_frame": {}
+    },
+    {
+        "id": "enemy_a",
+        "name": "Enemy A",
+        "source": "enemies.png",
+        "still_frame": {
+            "x": 0,
+            "y": 0,
+            "width": 56,
+            "height": 63,
+            "index": 0,
+            "regX": 0,
+            "regY": 0
+        }
+    },
+    {
+        "id": "enemy_b",
+        "name": "Enemy B",
+        "source": "enemies.png",
+        "still_frame": {
+            "x": 64,
+            "y": 0,
+            "width": 61,
+            "height": 64,
+            "index": 0,
+            "regX": 0,
+            "regY": 3
+        }
+    },
+    {
+        "id": "enemy_c",
+        "name": "Enemy C",
+        "source": "enemies.png",
+        "still_frame": {
+            "x": 133,
+            "y": 18,
+            "width": 32,
+            "height": 32,
+            "index": 0,
+            "regX": -5,
+            "regY": -30
+        }
+    },
+    {
+        "id": "enemy_d",
+        "name": "Enemy D",
+        "source": "enemies.png",
+        "still_frame": {
+            "x": 173,
+            "y": 15,
+            "width": 32,
+            "height": 40,
+            "index": 0,
+            "regX": -5,
+            "regY": -25
+        }
+    },
+    {
+        "id": "enemy_e",
+        "name": "Enemy E",
+        "source": "enemies.png",
+        "still_frame": {
+            "x": 213,
+            "y": 18,
+            "width": 32,
+            "height": 32,
+            "index": 0,
+            "regX": -5,
+            "regY": -25
+        }
+    },
+    {
+        "id": "enemy_f",
+        "name": "Enemy F",
+        "source": "enemies.png",
+        "still_frame": {
+            "x": 253,
+            "y": 20,
+            "width": 32,
+            "height": 30,
+            "index": 0,
+            "regX": -5,
+            "regY": -30
+        }
+    },
+    {
+        "id": "enemy_g",
+        "name": "Enemy G",
+        "source": "enemies.png",
+        "still_frame": {
+            "x": 0,
+            "y": 72,
+            "width": 128,
+            "height": 128,
+            "index": 0,
+            "regX": 0,
+            "regY": 0
+        }
+    }
+]

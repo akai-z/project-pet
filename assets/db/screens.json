@@ -1,0 +1,20 @@
+[
+    {
+        "id": "start-screen",
+        "name": "Start Screen",
+        "bgm_id": "",
+        "soundfx": {
+            "move": "screen_move",
+            "accept": "screen_accept"
+        }
+    },
+    {
+        "id": "gameover",
+        "name": "Game Over",
+        "bgm_id": "",
+        "soundfx": {
+            "move": "screen_move",
+            "accept": "screen_accept"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "hp_potion",
+        "name": "HP Potion",
+        "description": "Restores 500 HP",
+        "stat_effect": "hp_+500",
+        "image": "",
+        "soundfx_id": ""
+    },
+    {
+        "id": "mp_potion",
+        "name": "MP Potion",
+        "description": "Restores 100 MP",
+        "stat_effect": "mp_+100",
+        "image": "",
+        "soundfx_id": ""
+    },
+    {
+        "id": "antidote",
+        "name": "Antidote",
+        "description": "Cures poison",
+        "stat_effect": "",
+        "image": "",
+        "soundfx_id": ""
+    }
+]

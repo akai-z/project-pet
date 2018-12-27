@@ -1,0 +1,42 @@
+[
+    {
+        "id": "lvl",
+        "name": "Level",
+        "description": "..."
+    },
+    {
+        "id": "exp",
+        "name": "Experience Points",
+        "description": "..."
+    },
+    {
+        "id": "hp",
+        "name": "HP",
+        "description": "Hit Points: ..."
+    },
+    {
+        "id": "mp",
+        "name": "MP",
+        "description": "Mana Points: ..."
+    },
+    {
+        "id": "ap",
+        "name": "Attack Power",
+        "description": "..."
+    },
+    {
+        "id": "dp",
+        "name": "Defense Power",
+        "description": "..."
+    },
+    {
+        "id": "mpow",
+        "name": "Magic Power",
+        "description": "..."
+    },
+    {
+        "id": "md",
+        "name": "Magic Defense",
+        "description": "..."
+    }
+]

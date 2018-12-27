@@ -1,0 +1,468 @@
+[
+    {
+        "id": "char_a",
+        "name": "Char A",
+        "class": "Knight",
+        "type": "physical",
+        "is_main": 1,
+        "is_npc": 0,
+        "is_enemy": 0,
+        "is_boss": 0,
+        "sprite_id": "char_a",
+        "map_id": 0,
+        "stats": {
+            "lvl": 99, "exp": "100000",
+            "hp": "9899", "mp": "550",
+            "ap": "40", "dp": "40",
+            "mpow": "20", "md": "20"
+        },
+        "normal_attack": {
+            "power": 30,
+            "soundfx_id": "char_a_na"
+        },
+        "items": {
+            "hp_poition": 100,
+            "mp_poition": 50,
+            "antidote": 20
+        },
+        "abilities": {
+            "skill": {
+                "fire_attack": {
+                    "power": 12,
+                    "mp": 10,
+                    "soundfx_id": "char_a_fire_attack",
+                    "animation_id": "char_a_fire_attack"
+                },
+                "blizzard_attack": {
+                    "power": 11,
+                    "mp": 10,
+                    "soundfx_id": "char_a_blizzard_attack",
+                    "animation_id": "char_a_blizzard_attack"
+                },
+                "dark_attack": {
+                    "power": 13,
+                    "mp": 11,
+                    "soundfx_id": "char_a_dark_attack",
+                    "animation_id": "char_a_dark_attack"
+                }
+            }
+        },
+        "ai_id": ""
+    },
+    {
+        "id": "char_b",
+        "name": "Char B",
+        "class": "Fighter",
+        "type": "physical",
+        "is_main": 0,
+        "is_npc": 0,
+        "is_enemy": 0,
+        "is_boss": 0,
+        "sprite_id": "char_b",
+        "map_id": 0,
+        "stats": {
+            "lvl": 99, "exp": "100000",
+            "hp": "9999", "mp": "500",
+            "ap": "30", "dp": "50",
+            "mpow": "20", "md": "22"
+        },
+        "normal_attack": {
+            "power": 25,
+            "soundfx_id": "char_b_na"
+        },
+        "items": {
+            "hp_poition": 100,
+            "mp_poition": 50,
+            "antidote": 20
+        },
+        "abilities": {
+            "skill": {
+                "fire_attack": {
+                    "power": 11,
+                    "mp": 10,
+                    "soundfx_id": "char_b_fire_attack",
+                    "animation_id": "char_b_fire_attack"
+                },
+                "blizzard_attack": {
+                    "power": 10,
+                    "mp": 10,
+                    "soundfx_id": "char_b_blizzard_attack",
+                    "animation_id": "char_b_blizzard_attack"
+                },
+                "dark_attack": {
+                    "power": 12,
+                    "mp": 11,
+                    "soundfx_id": "char_b_dark_attack",
+                    "animation_id": "char_b_dark_attack"
+                }
+            }
+        },
+        "ai_id": ""
+    },
+    {
+        "id": "char_c",
+        "name": "Char C",
+        "class": "Black Mage",
+        "type": "magic",
+        "is_main": 0,
+        "is_npc": 0,
+        "is_enemy": 0,
+        "is_boss": 0,
+        "sprite_id": "char_c",
+        "map_id": 0,
+        "stats": {
+            "lvl": 99, "exp": "100000",
+            "hp": "9000", "mp": "1000",
+            "ap": "6", "dp": "25",
+            "mpow": "110", "md": "35"
+        },
+        "normal_attack": {
+            "power": 2,
+            "soundfx_id": "char_c_na"
+        },
+        "items": {
+            "hp_poition": 100,
+            "mp_poition": 50,
+            "antidote": 20
+        },
+        "abilities": {
+            "magic": {
+                "fire": {
+                    "power": 50,
+                    "mp": 20,
+                    "soundfx_id": "char_c_fire",
+                    "animation_id": "char_c_fire"
+                },
+                "blizzard": {
+                    "power": 30,
+                    "mp": 10,
+                    "soundfx_id": "char_c_blizzard",
+                    "animation_id": "char_c_blizzard"
+                },
+                "dark": {
+                    "power": 70,
+                    "mp": 50,
+                    "soundfx_id": "char_c_dark",
+                    "animation_id": "char_c_dark"
+                }
+            }
+        },
+        "ai_id": ""
+    },
+    {
+        "id": "char_d",
+        "name": "Char D",
+        "class": "White Mage",
+        "type": "magic",
+        "is_main": 0,
+        "is_npc": 0,
+        "is_enemy": 0,
+        "is_boss": 0,
+        "sprite_id": "char_d",
+        "map_id": 0,
+        "stats": {
+            "lvl": 99, "exp": "100000",
+            "hp": "9100", "mp": "1000",
+            "ap": 5, "dp": "30",
+            "mpow": "100", "md": "40"
+        },
+        "normal_attack": {
+            "power": 1,
+            "soundfx_id": "char_d_na"
+        },
+        "items": {
+            "hp_poition": 100,
+            "mp_poition": 50,
+            "antidote": 20
+        },
+        "abilities": {
+            "magic": {
+                "lightning": {
+                    "power": 25,
+                    "mp": 20,
+                    "soundfx_id": "char_d_lightning",
+                    "animation_id": "char_d_lightning"
+                },
+                "blind": {
+                    "power": 20,
+                    "mp": 15,
+                    "soundfx_id": "char_d_blind",
+                    "animation_id": "char_d_blind"
+                },
+                "holy": {
+                    "power": 50,
+                    "mp": 40,
+                    "soundfx_id": "char_d_holy",
+                    "animation_id": "char_d_holy"
+                }
+            }
+        },
+        "ai_id": ""
+    },
+    {
+        "id": "enemy_a",
+        "name": "Enemy A",
+        "class": "?",
+        "type": "?",
+        "is_main": 0,
+        "is_npc": 1,
+        "is_enemy": 1,
+        "is_boss": 0,
+        "sprite_id": "enemy_a",
+        "map_id": 0,
+        "stats": {
+            "lvl": 99, "exp": "100000",
+            "hp": "3000", "mp": "?",
+            "ap": 35, "dp": "35",
+            "mpow": "10", "md": "15"
+        },
+        "normal_attack": {
+            "power": 35,
+            "soundfx_id": "enemy_a_na"
+        },
+        "items": {
+            "hp_poition": 0,
+            "mp_poition": 0,
+            "antidote": 0
+        },
+        "abilities": {
+            "skill": {
+                "fire_attack": {
+                    "power": 9,
+                    "mp": 10,
+                    "soundfx_id": "enemy_a_fire_attack",
+                    "animation_id": "enemy_a_fire_attack"
+                }
+            }
+        },
+        "ai_id": ""
+    },
+    {
+        "id": "enemy_b",
+        "name": "Enemy B",
+        "class": "?",
+        "type": "?",
+        "is_main": 0,
+        "is_npc": 1,
+        "is_enemy": 1,
+        "is_boss": 0,
+        "sprite_id": "enemy_b",
+        "map_id": 0,
+        "stats": {
+            "lvl": 99, "exp": "100000",
+            "hp": "4000", "mp": "?",
+            "ap": 40, "dp": "35",
+            "mpow": "10", "md": "15"
+        },
+        "normal_attack": {
+            "power": 40,
+            "soundfx_id": "enemy_b_na"
+        },
+        "items": {
+            "hp_poition": 0,
+            "mp_poition": 0,
+            "antidote": 0
+        },
+        "abilities": {
+            "skill": {
+                "fire_attack": {
+                    "power": 10,
+                    "mp": 10,
+                    "soundfx_id": "enemy_b_fire_attack",
+                    "animation_id": "enemy_b_fire_attack"
+                }
+            }
+        },
+        "ai_id": ""
+    },
+    {
+        "id": "enemy_c",
+        "name": "Enemy C",
+        "class": "?",
+        "type": "?",
+        "is_main": 0,
+        "is_npc": 1,
+        "is_enemy": 1,
+        "is_boss": 0,
+        "sprite_id": "enemy_c",
+        "map_id": 0,
+        "stats": {
+            "lvl": 99, "exp": "100000",
+            "hp": "1000", "mp": "?",
+            "ap": 30, "dp": "25",
+            "mpow": "10", "md": "15"
+        },
+        "normal_attack": {
+            "power": 20,
+            "soundfx_id": "enemy_c_na"
+        },
+        "items": {
+            "hp_poition": 0,
+            "mp_poition": 0,
+            "antidote": 0
+        },
+        "abilities": {
+            "skill": {
+                "fire_attack": {
+                    "power": 9,
+                    "mp": 10,
+                    "soundfx_id": "enemy_c_fire_attack",
+                    "animation_id": "enemy_c_fire_attack"
+                }
+            }
+        },
+        "ai_id": ""
+    },
+    {
+        "id": "enemy_d",
+        "name": "Enemy D",
+        "class": "?",
+        "type": "?",
+        "is_main": 0,
+        "is_npc": 1,
+        "is_enemy": 1,
+        "is_boss": 0,
+        "sprite_id": "enemy_d",
+        "map_id": 0,
+        "stats": {
+            "lvl": 99, "exp": "100000",
+            "hp": "2000", "mp": "?",
+            "ap": 20, "dp": "25",
+            "mpow": "80", "md": "30"
+        },
+        "normal_attack": {
+            "power": 3,
+            "soundfx_id": "enemy_d_na"
+        },
+        "items": {
+            "hp_poition": 0,
+            "mp_poition": 0,
+            "antidote": 0
+        },
+        "abilities": {
+            "magic": {
+                "fire": {
+                    "power": 20,
+                    "mp": 10,
+                    "soundfx_id": "enemy_d_fire",
+                    "animation_id": "enemy_d_fire"
+                }
+            }
+        },
+        "ai_id": ""
+    },
+    {
+        "id": "enemy_e",
+        "name": "Enemy E",
+        "class": "?",
+        "type": "?",
+        "is_main": 0,
+        "is_npc": 1,
+        "is_enemy": 1,
+        "is_boss": 0,
+        "sprite_id": "enemy_e",
+        "map_id": 0,
+        "stats": {
+            "lvl": 99, "exp": "100000",
+            "hp": "2500", "mp": "?",
+            "ap": 25, "dp": "25",
+            "mpow": "100", "md": "30"
+        },
+        "normal_attack": {
+            "power": 6,
+            "soundfx_id": "enemy_e_na"
+        },
+        "items": {
+            "hp_poition": 0,
+            "mp_poition": 0,
+            "antidote": 0
+        },
+        "abilities": {
+            "magic": {
+                "fire": {
+                    "power": 40,
+                    "mp": 10,
+                    "soundfx_id": "enemy_e_fire",
+                    "animation_id": "enemy_e_fire"
+                }
+            }
+        },
+        "ai_id": ""
+    },
+    {
+        "id": "enemy_f",
+        "name": "Enemy F",
+        "class": "?",
+        "type": "?",
+        "is_main": 0,
+        "is_npc": 1,
+        "is_enemy": 1,
+        "is_boss": 0,
+        "sprite_id": "enemy_f",
+        "map_id": 0,
+        "stats": {
+            "lvl": 99, "exp": "100000",
+            "hp": "5000", "mp": "?",
+            "ap": 40, "dp": "35",
+            "mpow": "10", "md": "15"
+        },
+        "normal_attack": {
+            "power": 40,
+            "soundfx_id": "enemy_f_na"
+        },
+        "items": {
+            "hp_poition": 0,
+            "mp_poition": 0,
+            "antidote": 0
+        },
+        "abilities": {
+            "skill": {
+                "fire_attack": {
+                    "power": 15,
+                    "mp": 10,
+                    "soundfx_id": "enemy_f_fire_attack",
+                    "animation_id": "enemy_f_fire_attack"
+                }
+            }
+        },
+        "ai_id": ""
+    },
+    {
+        "id": "enemy_g",
+        "name": "Enemy G",
+        "class": "?",
+        "type": "?",
+        "is_main": 0,
+        "is_npc": 1,
+        "is_enemy": 1,
+        "is_boss": 1,
+        "sprite_id": "enemy_g",
+        "map_id": 0,
+        "stats": {
+            "lvl": 99, "exp": "100000",
+            "hp": "20000", "mp": "?",
+            "ap": 40, "dp": "35",
+            "mpow": "10", "md": "15"
+        },
+        "normal_attack": {
+            "power": 40,
+            "soundfx_id": "enemy_g_na"
+        },
+        "items": {
+            "hp_poition": 0,
+            "mp_poition": 0,
+            "antidote": 0
+        },
+        "abilities": {
+            "skill": {
+                "fire_attack": {
+                    "power": 15,
+                    "mp": 10,
+                    "soundfx_id": "uenemy_g_fire_attack",
+                    "animation_id": "enemy_g_fire_attack"
+                }
+            }
+        },
+        "ai_id": ""
+    }
+]

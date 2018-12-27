@@ -1,0 +1,12 @@
+[
+    {
+        "id": "character_move",
+        "sprite_id": "",
+        "name": "Character Move",
+        "frame_height": 0,
+        "frame_width": 0,
+        "separator_width": 0,
+        "start_coordinates": "x,y",
+        "end_coordinates": "x,y"
+    }
+]

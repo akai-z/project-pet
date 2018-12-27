@@ -1,0 +1,8 @@
+[
+    {
+        "id": "rain_forest",
+        "map_id": "rain_forest",
+        "image": "rain_forest.png",
+        "bgm_id": "battle"
+    }
+]

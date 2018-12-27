@@ -1,0 +1,14 @@
+body {
+    background-color: #333;
+}
+
+.container {
+    height: 600px;
+    margin: 0 auto;
+    position: relative;
+    width: 800px;
+}
+
+.stage {
+    background-color: #000;
+}

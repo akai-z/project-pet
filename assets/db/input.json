@@ -1,0 +1,11 @@
+[
+    {
+        "move_up": "38",
+        "move_right": "39",
+        "move_down": "40",
+        "move_left": "37",
+        "action": "90",
+        "cancel": "88",
+        "start": "13"
+    }
+]

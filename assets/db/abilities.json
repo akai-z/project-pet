@@ -1,0 +1,23 @@
+[
+    {
+        "id": "fire_attack",
+        "name": "Fire Attack",
+        "type": "skill",
+        "magic_type": "",
+        "description": "Mixes physical attack with fire"
+    },
+    {
+        "id": "blizzard_attack",
+        "name": "Blizzard Attack",
+        "type": "skill",
+        "magic_type": "",
+        "description": "Mixes physical attack with blizzard"
+    },
+    {
+        "id": "dark_attack",
+        "name": "Dark Attack",
+        "type": "skill",
+        "magic_type": "",
+        "description": "Mixes physical attack with dark element"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "id": "map",
+        "name": "Main Map",
+        "image": "map.png",
+        "exits": "...",
+        "obstacles": "...",
+        "bgm_id": "map"
+    },
+    {
+        "id": "edges",
+        "name": "Edges Layer",
+        "image": "edges.png",
+        "exits": "...",
+        "obstacles": "..."
+    }
+]

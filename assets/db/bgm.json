@@ -1,0 +1,22 @@
+[
+    {
+        "id": "map",
+        "name": "Map",
+        "source": "map.ogg",
+        "offset": 0,
+        "loop": -1,
+        "volumen": 0.2,
+        "start_time": 0,
+        "duration": 100
+    },
+    {
+        "id": "battle",
+        "name": "Battle",
+        "source": "battle.ogg",
+        "offset": 0,
+        "loop": -1,
+        "volumen": 0.2,
+        "start_time": 0,
+        "duration": 100
+    }
+]
