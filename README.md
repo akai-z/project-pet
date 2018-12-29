@@ -26,3 +26,10 @@ https://github.com/createjs
 Other libraries were also used, such as:
 * https://github.com/agershun/alasql
 * https://github.com/requirejs/requirejs
+
+## Authors
+
+* [Ammar K.](https://github.com/akai-z)
+* [Emad Jagasi](https://github.com/Mhd-Emad)
+* [Mohammad Ahmad](https://github.com/mayhem-ahmad)
+* [Mohammad Kayali](https://github.com/moe-kayali)
