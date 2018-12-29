@@ -24,8 +24,8 @@ https://createjs.com/
 https://github.com/createjs
 
 Other libraries were also used, such as:
-* https://github.com/agershun/alasql
-* https://github.com/requirejs/requirejs
+* [AlaSQL](https://github.com/agershun/alasql)
+* [RequireJS](https://github.com/requirejs/requirejs)
 
 ## Authors
 
