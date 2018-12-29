@@ -33,3 +33,7 @@ Other libraries were also used, such as:
 * [Emad Jagasi](https://github.com/Mhd-Emad)
 * [Mohammad Ahmad](https://github.com/mayhem-ahmad)
 * [Mohammad Kayali](https://github.com/moe-kayali)
+
+## License
+
+[GNU General Public License version 2](LICENSE)
