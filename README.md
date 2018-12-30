@@ -3,6 +3,12 @@
 Project Pet is a small [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) [RPG](https://en.wikipedia.org/wiki/Role-playing_video_game) style demo.  
 It was created back in 2015 as a part of a short hackathon.
 
+Due to the hackathon's short/limited time,  
+we decided that by the end of it, the demo should meet the following points:  
+* Research and decide the framework and libraries to use in the project.
+* Decide the initial structure of the game engine.
+* Work on basic implementation of some of the game mechanics and functionalities for the demo.
+
 It was closed source as it contained copyrighted assets  
 and the code required (still requires) more work, refactoring and improvement.  
 (Some parts must be done properly from scratch.)  
