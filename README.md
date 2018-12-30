@@ -11,7 +11,7 @@ we decided that by the end of it, the demo should meet the following points:
 
 The project was closed source as it contained copyrighted assets  
 and the code required (still requires) more work, refactoring and improvement.  
-(Some parts must be done properly from scratch.)  
+(Some parts must be redone properly from scratch.)  
 And we actually worked on it just for fun and to learn something new/different by execution,  
 and to leave the comfort zone for some time.
 
