@@ -12,7 +12,8 @@ we decided that by the end of it, the demo should meet the following points:
 The project was closed source as it contained copyrighted assets  
 and the code required (still requires) more work, refactoring and improvement.  
 (Some parts must be done properly from scratch.)  
-And we actually worked on it just for fun and to learn something new/different by execution.
+And we actually worked on it just for fun and to learn something new/different by execution,  
+and to leave the comfort zone for some time.
 
 In the open source version,  
 I replaced the copyrighted [BGM](https://en.wikipedia.org/wiki/Background_music) files with [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) ones,  
@@ -23,7 +24,7 @@ The used soundtrack (done by [t4ngr4m](https://opengameart.org/users/t4ngr4m)) c
 https://opengameart.org/content/generic-8-bit-jrpg-soundtrack
 
 There are multiple places in the code that are still incomplete  
-due to lack of time to work on them.
+and other parts were a bit rushed, due to lack of time to work on them.
 
 The project was mainly built using CreateJS.  
 https://createjs.com/  
