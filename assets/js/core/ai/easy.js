@@ -28,9 +28,9 @@ define([
             (Math.random() * possibleCommands) + 1
         );
 
-        if (selectedCommand != 1) {
+        //if (selectedCommand != 1) {
             //attack = selectAbility(abilities, selectedCommand);
-        }
+        //}
 
         return attack;
     }
