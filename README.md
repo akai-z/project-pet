@@ -24,7 +24,7 @@ The used soundtrack (done by [t4ngr4m](https://opengameart.org/users/t4ngr4m)) c
 https://opengameart.org/content/generic-8-bit-jrpg-soundtrack
 
 There are multiple places in the code that are still incomplete  
-and other parts were a bit rushed, due to lack of time to work on them.
+and other parts were a bit rushed, as there wasn't enough time to work on them.
 
 The project was mainly built using CreateJS suite libraries.  
 https://createjs.com/  
