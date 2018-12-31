@@ -20,7 +20,7 @@ I replaced the copyrighted [BGM](https://en.wikipedia.org/wiki/Background_music)
 and replaced the colored images with silhouette versions of them.  
 I also fixed some issues.
 
-The used soundtrack (done by [t4ngr4m](https://opengameart.org/users/t4ngr4m)) can be found here:  
+The used soundtrack (done by [t4ngr4m](https://opengameart.org/users/t4ngr4m)) could be obtained from:  
 https://opengameart.org/content/generic-8-bit-jrpg-soundtrack
 
 There are multiple places in the code that are still incomplete  
