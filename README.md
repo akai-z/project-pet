@@ -14,8 +14,8 @@ and would be replaced later with [ATB](https://en.wikipedia.org/wiki/Turns,_roun
 The project was closed source as it contained copyrighted assets  
 and the code required (still requires) more work, refactoring and improvement.  
 (Some parts must be redone properly from scratch.)  
-And we actually worked on it just for fun and to learn something new/different by execution,  
-and to leave the comfort zone for some time.
+And we actually worked on it just for fun and to quickly learn something new/different by doing,  
+and to leave comfort zone for some time.
 
 In the open source version,  
 I replaced the copyrighted [BGM](https://en.wikipedia.org/wiki/Background_music) files with [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) ones,  
