@@ -8,6 +8,8 @@ we decided that by the end of it, the demo should meet the following points:
 * Research and decide the framework and libraries to use in the project.
 * Decide the initial structure of the game engine.
 * Work on basic implementation of some of the game mechanics and functionalities for the demo.
+* The battle system would initially be [turn-based](https://en.wikipedia.org/wiki/Turns,_rounds_and_time-keeping_systems_in_games#Turn-based), 
+and would be replaced later with [ATB](https://en.wikipedia.org/wiki/Turns,_rounds_and_time-keeping_systems_in_games#Active_Time_Battle) system.
 
 The project was closed source as it contained copyrighted assets  
 and the code required (still requires) more work, refactoring and improvement.  
