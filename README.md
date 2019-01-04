@@ -5,7 +5,7 @@ It was created back in 2015 as a part of a hackathon.
 
 Due to the hackathon's short/limited time,  
 we decided that by the end of it, the demo should meet the following points:  
-* Research and decide the framework and libraries to use in the project.
+* Research and decide the framework and/or libraries to use in the project.
 * Decide the initial structure of the game engine.
 * Work on basic implementation of some of the game mechanics and functionalities for the demo.
 * The battle system would initially be [turn-based](https://en.wikipedia.org/wiki/Turns,_rounds_and_time-keeping_systems_in_games#Turn-based), 
@@ -15,7 +15,7 @@ The project was closed source as it contained copyrighted assets
 and the code required (still requires) more work, refactoring and improvement.  
 (Some parts must be redone properly from scratch.)  
 And we actually worked on it just for fun and to quickly learn something new/different by doing,  
-and to leave comfort zone for some time.
+plus leaving comfort zone for some time.
 
 In the open source version,  
 I replaced the copyrighted [BGM](https://en.wikipedia.org/wiki/Background_music) files with [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) ones,  
