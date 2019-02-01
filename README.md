@@ -1,6 +1,6 @@
 # Project Pet
 
-Project Pet is a small [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) [RPG](https://en.wikipedia.org/wiki/Role-playing_video_game) style demo.  
+Project Pet is a small HTML5/JavaScript [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) [RPG](https://en.wikipedia.org/wiki/Role-playing_video_game) style demo.  
 It was created back in 2015 as a part of a hackathon.
 
 Due to the hackathon's short/limited time,  
@@ -9,7 +9,7 @@ we decided that by the end of it, the demo should meet the following points:
 * Decide the initial structure of the game engine.
 * Work on basic implementation of some of the game mechanics and functionalities for the demo.
 * The battle system would initially be [turn-based](https://en.wikipedia.org/wiki/Turns,_rounds_and_time-keeping_systems_in_games#Turn-based), 
-and would be replaced later with [ATB](https://en.wikipedia.org/wiki/Turns,_rounds_and_time-keeping_systems_in_games#Active_Time_Battle) system.
+and would be later replaced with [ATB](https://en.wikipedia.org/wiki/Turns,_rounds_and_time-keeping_systems_in_games#Active_Time_Battle) system.
 
 The project was closed source as it contained copyrighted assets  
 and the code required (still requires) more work, refactoring and improvement.  
