@@ -7,7 +7,7 @@ Due to the hackathon's short/limited time,
 we decided that by the end of it, the demo should meet the following points:  
 * Research and decide the framework and/or libraries to use in the project.
 * Decide the initial structure of the game engine.
-* Work on basic implementation of some of the game mechanics and functionalities for the demo.
+* Work on a basic implementation of some of the game mechanics and functionalities for the demo.
 * The battle system would initially be [turn-based](https://en.wikipedia.org/wiki/Turns,_rounds_and_time-keeping_systems_in_games#Turn-based), 
 and would be later replaced with [ATB](https://en.wikipedia.org/wiki/Turns,_rounds_and_time-keeping_systems_in_games#Active_Time_Battle) system.
 
